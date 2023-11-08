@@ -1,4 +1,4 @@
-![MasterHead]<p> <img src="https://cdn-images-1.medium.com/v2/resize:fit:640/1*zm5NLjdhGd3VVTA2u-xEPg.gif"></p>
+![MasterHead](<p> <img src="https://cdn-images-1.medium.com/v2/resize:fit:640/1*zm5NLjdhGd3VVTA2u-xEPg.gif"></p>)
 
 <h1 align="center">Hi 👋, I'm Anas Zakari</h1>
 <h3 align="center">A passionate developer from Morocco.</h3>
