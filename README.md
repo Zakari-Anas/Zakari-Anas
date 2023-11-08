@@ -1,4 +1,4 @@
-<p> <img align="center" height="500" width="1000" src="https://cdn-images-1.medium.com/v2/resize:fit:640/1*zm5NLjdhGd3VVTA2u-xEPg.gif"></p>
+<p> <img align="center" height="600" width="1000" src="https://cdn-images-1.medium.com/v2/resize:fit:640/1*zm5NLjdhGd3VVTA2u-xEPg.gif"></p>
 
 <h1 align="center">Hi 👋, I'm Anas Zakari</h1>
 <h3 align="center">A passionate developer from Morocco.</h3>
