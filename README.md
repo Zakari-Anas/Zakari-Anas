@@ -10,6 +10,7 @@
 <p align="center">Let's connect, collaborate, and create something awesome together!</p>
 
 - 📫 How to reach me **Zakari.Anas2000@gmail.com**
+<img align='right' alt='coding' width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
