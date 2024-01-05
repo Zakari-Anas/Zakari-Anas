@@ -1,7 +1,15 @@
-<p> <img align="center" height="600" width="1000" src="https://media.tenor.com/cQW5sdt-ghwAAAAC/minions-hello.gif"></p>
 
 <h1 align="center">Hi 👋, I'm Anas Zakari</h1>
 <h3 align="center">A passionate developer from Morocco.</h3>
+
+<p align="center">I'm enthusiastic about crafting digital experiences and solving problems through code. My journey in the world of development began with a curious mind and a love for building things that matter.</p>
+
+<p align="center">I thrive on challenges that push me to learn and grow. Whether it's creating sleek user interfaces, architecting robust backend systems, I'm always eager to explore and expand my skill set.</p>
+
+<p align="center">When I'm not coding, you'll often find me exploring new technologies, reading about the latest trends in tech, or collaborating with fellow developers on exciting projects. I also enjoy sharing knowledge and learning from the vibrant developer community.</p>
+
+<p align="center">Let's connect, collaborate, and create something awesome together!</p>
+
 <img align='right' alt='coding' width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakari-anas&label=Profile%20views&color=0e75b6&style=flat" alt="zakari-anas" /> </p>
 
