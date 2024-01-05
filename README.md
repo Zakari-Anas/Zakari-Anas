@@ -9,8 +9,6 @@
 
 <p align="center">Let's connect, collaborate, and create something awesome together!</p>
 
-- 🌱 I’m currently learning **ML && DM**
-
 - 📫 How to reach me **Zakari.Anas2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
