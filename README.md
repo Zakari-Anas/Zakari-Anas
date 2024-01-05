@@ -9,9 +9,6 @@
 
 <p align="center">Let's connect, collaborate, and create something awesome together!</p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakari-anas" alt="zakari-anas" /></a> </p>
-
 - 🌱 I’m currently learning **ML && DM**
 
 - 📫 How to reach me **Ranyataoui26@gmail.com**
