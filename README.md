@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ML && DM**
 
-- 📫 How to reach me **Ranyataoui26@gmail.com**
+- 📫 How to reach me **Zakari.Anas2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
